@@ -1,0 +1,29 @@
+# [Lab / Level Name]
+
+**Platform:** [OverTheWire]  
+**Topic:** [Linux]
+
+## 1. Goal
+The goal was to find the readme file where the password of the next level was stored.
+
+## 2. What I Did
+Performed ls command to list out all the directories and files.
+then performed cat for the specific file readme to print out the content of the file.
+
+```bash
+=> ls
+=> cat filename
+```
+
+## 3. What Happened
+after performing cat readme the password was printed out
+
+## 4. Why It Worked
+Cat command prints out the content of the file written inside the file.
+
+## 5. What I Learned
+ls lists all the files and folders
+cat prints the content out of the file
+
+## 6. Key Takeaway
+None
